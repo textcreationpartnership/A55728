@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The presentment and humble petition of the Grand Jury for the county of Middlesex to the Honourable and Right Worshipful the Justice of the Peace for the county of Middlesex, at this present general sessions held at Hick's Hall, begun the 18th day of May, 1681.</title>
+            <author>Middlesex (England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55728</idno>
+            <idno type="STC">Wing P3280</idno>
+            <idno type="STC">ESTC R24471</idno>
+            <idno type="EEBO-CITATION">08199838</idno>
+            <idno type="OCLC">ocm 08199838</idno>
+            <idno type="VID">41070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1237:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The presentment and humble petition of the Grand Jury for the county of Middlesex to the Honourable and Right Worshipful the Justice of the Peace for the county of Middlesex, at this present general sessions held at Hick's Hall, begun the 18th day of May, 1681.</title>
+                  <author>Middlesex (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>1 sheet.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41070:1" rendition="simple:additions"/>
+            <head>THE PRESENTMENT And Humble PETITION OF THE GRAND JURY FOR THE County of Middleſex.
+To the Honourable and Right Worſhipful the Juſtice of the Peace for the County of <hi>Middleſex,</hi> at this preſent General Seſſions held at <hi>Hick's</hi>-Hall, begun the 18<hi>
+                  <hi rend="sup">th.</hi>
+               </hi> day of <hi>May,</hi> 1681.</head>
+            <opener>Sheweth,</opener>
+            <p>THat We the ſaid Grand Jury, being by our Oaths obliged to enquire into the State of the Peace of the County, hold our ſelves bound to ſhew unto this Court, what we find and Apprehend concerning the ſame. Upon the moſt diligent enquiry and Obſervation that we can make.</p>
+            <p>We find that the peace of this County and the whole Kingdom is in no ſecu<g ref="char:EOLhyphen"/>rity, by reaſon of the continual Contrivances of the Papiſts and their Adherents againſt the Proteſtants, to throw their wicked Conſpiracies upon them, and we have reaſon to fear dayly that the peace may be broken, by means of ſome of their wicked deſigns to enrage ſome inconſiderate people.</p>
+            <p>We find that His Majeſties Perſon is in no ſecurity whilſt the Papiſts have hopes, and a viſible appearance that there may be a Popiſh Succeſſor to head them, and deſtroy the Proteſtant Intereſt, if they can by any wicked means and Helliſh Villanies, procure His Majeſties Death, which God (in his Mercy) prevent.</p>
+            <p>We find the minds of the people greatly diſquieted and diſtracted, with fears of what may happen to them, remembring the deſtructions that have been made in the City of <hi>London</hi> and elſewhere; and we perceive dayly endeavours by Jeſuitical Councils, to diſtract and divide the Proteſtants into Parties, and to incenſe each of them againſt the other, to ſuggeſt ill and falſe opinions of their Parliaments, and to villifie the Authority of the Commons, and to miſrepreſent their proceedings,</p>
+            <p>
+               <pb facs="tcp:41070:2" rendition="simple:additions"/>
+We find wicked ſecrets, endeavours to make breaches between His Majeſty and the Commons of <hi>England</hi> in Parliament by Printed Papers and otherwiſe, to being the Commons in Parliament into the hatred and contempt of the Nation, which we conceive to be of moſt dangerous conſequence, tending even to the Diſſolution of the conſtitution of the Government.</p>
+            <p>And we find the Papiſts and their Adherents much encouraged by the frequent Diſſolution of Parliaments, and the whole Kingdom put into a Languiſhing condition.</p>
+            <p>All which Evils in our apprehenſions can be only cured by the Sitting of Annual Parliaments, until the buſineſs of the Kingdom be done, (as the Laws for holding Parliaments do intend) that being the only means to keep the whole Adminiſtration of the Government in due Order, and therefore the peace of the Kingdom inviolable, which Parliaments ſhall (as have been uſed heretofore) conſtantly inſpect the effects of all Counſels given to His Majeſty; None will dare to advize him againſt his own and the Kingdoms Intereſt, whereby only the people may enjoy what was left them by their Anceſtors, and Juſtice may be done upon all dangerous Offenders and Conſpirators againſt His Majeſty, and the Religion, Lives, and Liberties of the Subjects.</p>
+            <p>
+               <hi>We therefore Humbly Offer it as our Requeſts, that your worſhips and this Court, will (in that moſt acceptable and effectual way, which ſhall ſeem meet to your wiſdom) make their moſt humble and earneſt Deſires and Prayers known to his Majeſty, for the immediate holding of a Parliament, which may Sit for ſuch time as the Imminent danger of his Majeſty and the whole Kingdom hath made it neceſſary and indiſpenſible; that ſo his Subjects may enjoy the benefit of the Laws, as the conſtitution of the Government intends them in their Par<g ref="char:EOLhyphen"/>liament, which is to make ſufficient Proviſion for the ſafety of his Majeſty, and the Security of the whole Kingdom in their Religion, Laws and Liberties.</hi>
+            </p>
+            <closer>And your Petitioners ſhall ever Pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> in <hi>Thames-ſtreet</hi> near <hi>Bennards-Caſtle,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
